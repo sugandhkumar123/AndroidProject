@@ -9,8 +9,8 @@ import kotlin.reflect.typeOf
 
 class MainActivity : AppCompatActivity() {
 
-//    var randomVal= (Math.random()*10).toInt()
-    var randomVal= 10
+    var randomVal= (Math.random()*10).toInt()
+   // var randomVal= 10
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
